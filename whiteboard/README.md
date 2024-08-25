@@ -1,6 +1,5 @@
 # WhiteBoad
 
-This Software is made for our Client by the [PulseZest](https://pulsezest.com/) on 24-August-2024. This have functionlity of user Authentication, Invite Friend on Whiteboard, Live Chat Option. Creative Tools.
 
 ## Technology we use
 1. React Js Library.
